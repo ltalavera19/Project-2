@@ -1,65 +1,8 @@
-html{
-    background-color: bisque;
-}
-
-#main-navbar{
-    background-color:gray;
-    overflow: auto;
-}
-
-#navbar-container{
-    float: left;
-    width: 100%;
-    position: relative;
-}
-
-#navbar-container ul li{
-    float: left;
-    position: relative;
-    right: 50%;
-    display: block;
-  }
-
-#navbar-container ul li a{
-    display: block;
-    padding: 10px 20px;
-    color: #fff;
-    text-decoration: none;
-  }
-  
-#navbar-container ul li a:hover{
-    background-color: pink;
-  }
-
-#resume-body{
-    text-align: center;
-  }
-#resume-body{
-    text-align: center;
-   }
-
-#resume-body h1{
-    font-weight: bold;
-    color: silver
-    border-style: dashed;
-   }
-
-#resume-body h2{
+body {
+    {
+    background-color:rgba(0, 174, 255, 0.637);
     font-family: 'Courier New', Courier, monospace;
-    border-style: groove;
-    border-width: 1px;
-    border-radius: 45px;
-    background-color: greenyellow;
+    font-size:xx-large;
+    font-weight: 200;
+    font-style: normal;
 }
-#resume-body h3 h4{
-    text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:mediumslateblue;
-    border-style: solid;
-    border-width: 2px;
-    border-color: black;
-    border-radius: 50px;
-    background-color: yellow;
-}
-
-#favoritecars-body 
