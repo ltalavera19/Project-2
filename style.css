@@ -1,7 +1,7 @@
 body
   {
-  background-color: brown;
-  font-family: 'Bradley Hand', cursive;
+  background-color:rgba(rgb(163, 109, 109), rgb(49, 170, 49), rgb(76, 76, 228), alpha);
+  font-family: monospace;
   font-size:xx-large;
   font-weight: 200;
   font-style: normal;
