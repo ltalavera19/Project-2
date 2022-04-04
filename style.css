@@ -1,8 +1,96 @@
-body
-  {
-  background-color:peru;
-  font-family: monospace;
-  font-size:xx-large;
-  font-weight: 200;
-  font-style: normal;
-  }
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+#main-navbar {
+	overflow: hidden;
+}
+
+#navbar-container {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+
+#navbar-container ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	left: 50%;
+	float: left;
+}
+
+#navbar-container ul li {
+	float: left;
+	position: relative;
+	right: 50%;
+	display: block;
+	
+}
+
+#navbar-container ul li a {
+	display: block;
+	padding: 10px 20px;
+	color: #6fd2ff;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Inter;
+}
+
+#navbar-container ul li a:hover {
+	background-color: #19313c;
+	border-radius: 5px;
+	border-left-style: solid;
+	border-left-width: 5px;
+	border-left-color: red;
+}
+
+body{
+	background-color: #102832;
+	padding: 0% 7%;
+}
+
+p {
+	color: #e5e5e5;
+	font-family: Arial;
+	font-size: 22px;
+}
+
+h1 {
+	color: #e5e5e5;
+	font-family: Helvetica;
+	border-left-style: solid;
+	border-left-color: red;
+	border-top-left-radius: 3px;
+	padding-left: 10px;
+}
+
+h2 {
+	color: #e5e5e5;
+	font-family: Helvetica;
+	border-left-style: solid;
+	border-left-color: red;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	border-bottom-left-radius: 1px;
+	padding-left: 10px;
+}
+
+h3 {
+	color: #e5e5e5;
+	font-family: Helvetica;
+	border-left-style: solid;
+	border-left-color: red;
+	border-bottom-left-radius: 3px;
+	border-bottom-left-radius: 1px;
+	padding-left: 10px;
+}
+
+#resume li {
+	color: #e5e5e5;
+	font-family: Arial;
+}
+
+#resume_divider {
+	border: 1px solid red;
+	border-radius: 1px;
+}
