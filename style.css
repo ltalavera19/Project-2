@@ -86,8 +86,8 @@ h3 {
 }
 
 li {
-  color: white
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 	border-left-style: solid;
 	border-left-color: purple;
 	border-bottom-left-radius: 3px;
