@@ -95,6 +95,17 @@ li {
 	padding-left: 10px;
 }
 
+h4 {
+	color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border-left-style: solid;
+	border-left-color: purple;
+	border-bottom-left-radius: 3px;
+	border-bottom-left-radius: 1px;
+	padding-left: 10px;
+
+}
+
 #resume li {
 	color: #e5e5e5;
 	font-family: Arial;
